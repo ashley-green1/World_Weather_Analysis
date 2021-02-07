@@ -1,7 +1,7 @@
-# Adding config.py file.
+# Adding config.py file. 
 config.py
 
-# Adding the API_practice.ipynb and random_numbers.ipynb files.
+# Adding additional files.
 API_practice.ipynb
 random_numbers.ipynb
 
@@ -135,3 +135,7 @@ dmypy.json
 # Pyre type checker
 .pyre/
 config.py
+API_practice.ipynb
+random_numbers.ipynb
+random_numbers.ipynb
+API_practice.ipynb
